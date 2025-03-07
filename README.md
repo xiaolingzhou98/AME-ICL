@@ -10,7 +10,7 @@
 This repository contains the code of "Valuing Training Data via Causal Inference for In-Context Learning".
 
 <p align="center">
-  <img src="img/pipeline.jpg" width="100%" height="100%">
+  <img src="./img/pipeline.jpg" width="85%" height="85%">
 </p>
 
 
